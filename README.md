@@ -214,4 +214,4 @@ See [data/DATA_MODEL.md](data/DATA_MODEL.md) (section 6) for every format and da
 
 ## About me
 
-I'm **Juliana Therezo**, moving from accounting and lease accounting into data analytics and BI. This project combines both: finance knowledge (finance leases, restatements, accruals and reversals, budget variance) with Python, SQL and Tableau. Built as my final project for the Ironhack Data Analytics bootcamp (2026).
+I'm **Juliana Therezo**, experienced in finance & accounting now addind skills into data analytics and BI to my profile. This project combines both: finance knowledge (financial analysis, restatements, accruals and reversals, budget variance, Forcast) with Python, SQL and Tableau. Built as my final project for the Ironhack Data Analytics bootcamp (2026).
