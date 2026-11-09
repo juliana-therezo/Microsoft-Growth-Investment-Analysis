@@ -1,0 +1,181 @@
+fiscal_year,segment,product_line,line_item,variance_pct,variance_direction,budget_bn,forecast_6_6_bn,actual_bn,variance_bn
+FY25,Intelligent Cloud,Azure,Revenue,0.0032644536568222637,Favourable,73.8738725,,74.11503033322624,0.24115783322624207
+FY25,More Personal Computing,Windows OEM,Revenue,0.003767445142287995,Favourable,11.8975777,,11.942401171310859,0.04482347131085968
+FY25,Productivity and Business Processes,Microsoft 365 Commercial,Revenue,0.040257300634916726,Favourable,79.131965,,82.31760430483672,3.1856393048367155
+FY26,More Personal Computing,Search and News Advertising,Revenue,-0.014420441755735758,Unfavourable,15.6421836,15.260238,15.416616402463674,-0.22556719753632545
+FY26,More Personal Computing,Devices,Revenue,-0.008569809710089138,Unfavourable,4.8527304,4.7856634,4.811143423897636,-0.04158697610236454
+FY27,Intelligent Cloud,Server Products,Revenue,0.034191160825975286,Favourable,5.4946349,,5.682502845545916,0.18786794554591657
+FY27,Intelligent Cloud,Enterprise and Partner Services,Revenue,0.041174147494082325,Favourable,1.9618441,,2.042621358333795,0.08077725833379507
+FY27,More Personal Computing,Devices,Revenue,-0.06514238598494448,Unfavourable,0.9758861,,0.9123145509964579,-0.06357154900354219
+FY25,More Personal Computing,Search and News Advertising,Revenue,0.053626025572324654,Favourable,13.0709017,,13.771842208817542,0.700940508817543
+FY26,Productivity and Business Processes,Microsoft 365 Commercial,Revenue,0.03357315306249253,Favourable,93.6470627,95.9454574,96.79108986987994,3.144027169879944
+FY26,Productivity and Business Processes,Dynamics 365,Revenue,0.05115323300903052,Favourable,8.1957961,8.5111361,8.615037567597803,0.4192414675978031
+FY26,Intelligent Cloud,Azure,Revenue,-0.01956118809652807,Unfavourable,107.8268308,105.6218229,105.7176098808687,-2.109220919131302
+FY27,More Personal Computing,Windows OEM,Revenue,0.03272674277509968,Favourable,2.6561947,,2.743123300707483,0.08692860070748329
+FY27,Productivity and Business Processes,Microsoft 365 Commercial,Revenue,0.015612592324129482,Favourable,26.3271819,,26.738217458047902,0.41103555804790115
+FY27,Productivity and Business Processes,Dynamics 365,Revenue,0.002810378362570809,Favourable,2.3245756,,2.3311085369684,0.006532936968400001
+FY25,Productivity and Business Processes,Dynamics 365,Revenue,-0.018095268483890425,Unfavourable,7.4551518,,7.320248826590841,-0.13490297340915872
+FY26,Intelligent Cloud,Server Products,Revenue,0.005322635118637731,Favourable,23.5529848,23.8588988,23.678348744045223,0.12536394404522325
+FY26,Intelligent Cloud,Enterprise and Partner Services,Revenue,0.06077764680421005,Favourable,7.3692257,7.7937478,7.817109896815109,0.4478841968151083
+FY26,Productivity and Business Processes,Windows Commercial,Revenue,-0.012324759550212394,Unfavourable,6.6263757,6.657505,6.544707212808129,-0.08166848719187068
+FY26,Productivity and Business Processes,LinkedIn,Revenue,0.005846327292233777,Favourable,18.8811887,18.6936105,18.991574308806626,0.11038560880662536
+FY26,Productivity and Business Processes,Microsoft 365 Consumer,Revenue,-0.04310828228175467,Unfavourable,8.8818555,8.4891141,8.498973965920245,-0.3828815340797558
+FY26,More Personal Computing,Gaming,Revenue,-0.034962231032839575,Unfavourable,22.6418024,21.7674879,21.8501944734913,-0.7916079265087014
+FY27,Productivity and Business Processes,Windows Commercial,Revenue,0.008104602262696492,Favourable,1.7021622,,1.7159575476175963,0.013795347617596388
+FY27,Productivity and Business Processes,LinkedIn,Revenue,-0.004588102120360094,Unfavourable,5.0424874,,5.0193519528681705,-0.023135447131829263
+FY27,Productivity and Business Processes,Microsoft 365 Consumer,Revenue,0.03409538990281957,Favourable,2.2884032,,2.36642719935886,0.07802399935886002
+FY27,More Personal Computing,Search and News Advertising,Revenue,0.04212913918520611,Favourable,3.8771068,,4.040445972013109,0.1633391720131092
+FY27,More Personal Computing,Gaming,Revenue,0.0388929838285379,Favourable,5.1500539,,5.350354863048799,0.20030096304879857
+FY25,Productivity and Business Processes,Windows Commercial,Revenue,-0.04367352144030345,Unfavourable,6.4187331,,6.1384044223375644,-0.2803286776624355
+FY25,Productivity and Business Processes,LinkedIn,Revenue,0.007613528992441498,Favourable,17.0798572,,17.20989518797896,0.13003798797896193
+FY25,More Personal Computing,Gaming,Revenue,0.04946322232534772,Favourable,22.0839338,,23.17627632736766,1.0923425273676606
+FY25,More Personal Computing,Devices,Revenue,0.017145430913613424,Favourable,5.5978512,,5.693828771014288,0.09597757101428794
+FY25,Productivity and Business Processes,Microsoft 365 Consumer,Revenue,0.003929427810621222,Favourable,7.0647122,,7.0924724765927145,0.02776027659271431
+FY25,Intelligent Cloud,Server Products,Revenue,0.04484627276590758,Favourable,23.1565552,,24.195040390817994,1.038485190817993
+FY25,Intelligent Cloud,Enterprise and Partner Services,Revenue,0.07168162443436121,Favourable,7.0190357,,7.522171580938774,0.5031358809387741
+FY26,More Personal Computing,Windows OEM,Revenue,-0.020101435785659594,Unfavourable,12.0268526,12.0137325,11.785095594757507,-0.2417570052424927
+FY27,Intelligent Cloud,Azure,Revenue,0.026226054193071002,Favourable,32.1810854,,33.02506828969224,0.8439828896922454
+FY25,Productivity and Business Processes,Dynamics 365,Cost of Revenue,0.060276483885260745,Unfavourable,1.5294772,,1.6216687077986738,0.09219150779867387
+FY26,Productivity and Business Processes,Windows Commercial,Cost of Revenue,0.04236413736572198,Unfavourable,0.4405504,0.4474467,0.45921393766212376,0.01866353766212374
+FY26,Productivity and Business Processes,LinkedIn,Cost of Revenue,0.049944971941665806,Unfavourable,4.7431667,4.8540169,4.980064027746144,0.23689732774614333
+FY26,Productivity and Business Processes,Microsoft 365 Consumer,Cost of Revenue,0.026989035715595522,Unfavourable,1.1800821,1.2197558,1.211931377944235,0.03184927794423509
+FY26,More Personal Computing,Gaming,Cost of Revenue,0.06049520813942322,Unfavourable,11.932255,12.6176761,12.654099249797675,0.7218442497976741
+FY26,Intelligent Cloud,Server Products,Cost of Revenue,0.1030224681375238,Unfavourable,1.2833107,1.3972998,1.4155205357012934,0.13220983570129347
+FY26,Intelligent Cloud,Enterprise and Partner Services,Cost of Revenue,0.023332529696291626,Unfavourable,4.5817714,4.6314043,4.68867571725212,0.10690431725212002
+FY27,More Personal Computing,Search and News Advertising,Cost of Revenue,-0.004383447095726134,Favourable,1.9903789,,1.9816541793914004,-0.008724720608599662
+FY27,More Personal Computing,Gaming,Cost of Revenue,0.027936890810100756,Unfavourable,2.9620438,,3.044794094215336,0.08275029421533585
+FY27,Productivity and Business Processes,Windows Commercial,Cost of Revenue,0.0845433592717173,Unfavourable,0.1108333,,0.12020351950117003,0.009370219501170025
+FY27,Productivity and Business Processes,LinkedIn,Cost of Revenue,0.04269563609470017,Unfavourable,1.2645208,,1.3185103199109791,0.053989519910979035
+FY27,Productivity and Business Processes,Microsoft 365 Consumer,Cost of Revenue,0.026192447158723597,Unfavourable,0.3227688,,0.33122290473848465,0.008454104738484621
+FY25,More Personal Computing,Devices,Cost of Revenue,0.040184782238240624,Unfavourable,4.6442191,,4.830846033200178,0.18662693320017815
+FY25,More Personal Computing,Gaming,Cost of Revenue,-0.028150186823287737,Favourable,13.9246851,,13.53270261297955,-0.3919824870204506
+FY25,Productivity and Business Processes,Windows Commercial,Cost of Revenue,0.023794606008323838,Unfavourable,0.4242729,,0.43436830649550895,0.010095406495508968
+FY25,Intelligent Cloud,Server Products,Cost of Revenue,0.01605902978175533,Unfavourable,1.4431959,,1.466372225939007,0.023176325939007043
+FY25,Productivity and Business Processes,LinkedIn,Cost of Revenue,0.005742340045051364,Unfavourable,4.4829035,,4.508645856286151,0.025742356286150934
+FY25,Productivity and Business Processes,Microsoft 365 Consumer,Cost of Revenue,0.04170124239809847,Unfavourable,0.9632447,,1.0034132007233836,0.04016850072338354
+FY25,Intelligent Cloud,Enterprise and Partner Services,Cost of Revenue,0.05877990334420247,Unfavourable,4.3271277,,4.581475847964021,0.2543481479640207
+FY26,More Personal Computing,Windows OEM,Cost of Revenue,0.08874001805969489,Unfavourable,1.1006116,1.15391,1.1982798932607097,0.09766829326070976
+FY27,Intelligent Cloud,Azure,Cost of Revenue,0.011533824335608678,Unfavourable,15.9759063,,16.160169596866343,0.18426329686634255
+FY25,Productivity and Business Processes,Microsoft 365 Commercial,Cost of Revenue,0.06902480462476146,Unfavourable,12.295847,,13.14456543687096,0.8487184368709603
+FY25,Intelligent Cloud,Azure,Cost of Revenue,0.03236468888647659,Unfavourable,30.4558787,,31.441573738889765,0.9856950388897667
+FY25,More Personal Computing,Windows OEM,Cost of Revenue,0.04442815554166879,Unfavourable,1.1646727,,1.2164169598707355,0.05174425987073541
+FY26,More Personal Computing,Search and News Advertising,Cost of Revenue,0.028845290907062227,Unfavourable,7.2195745,7.5315438,7.427825226677708,0.20825072667770766
+FY26,More Personal Computing,Devices,Cost of Revenue,0.06846528527861029,Unfavourable,3.8704846,4.0256863,4.135478432305468,0.2649938323054676
+FY27,More Personal Computing,Devices,Cost of Revenue,0.04193048703887059,Unfavourable,0.7494084,,0.7808314592030208,0.03142305920302081
+FY27,Intelligent Cloud,Server Products,Cost of Revenue,-0.06934050562064642,Favourable,0.3724088,,0.3465857855104218,-0.02582301448957819
+FY27,Intelligent Cloud,Enterprise and Partner Services,Cost of Revenue,0.022075644097700575,Unfavourable,1.1836557,,1.2097856619674145,0.026129961967414617
+FY25,More Personal Computing,Search and News Advertising,Cost of Revenue,0.019432187389382127,Unfavourable,6.5759833,,6.703769039755048,0.1277857397550478
+FY26,Intelligent Cloud,Azure,Cost of Revenue,-0.01238732167688228,Favourable,49.8377098,48.514126,49.22035405706829,-0.6173557429317093
+FY26,Productivity and Business Processes,Microsoft 365 Commercial,Cost of Revenue,0.00023939940109496405,Unfavourable,15.773115,15.8412173,15.776891074284402,0.00377607428440094
+FY26,Productivity and Business Processes,Dynamics 365,Cost of Revenue,0.06432111268388696,Unfavourable,1.8008798,1.8815528,1.9167143925459356,0.11583459254593563
+FY27,Productivity and Business Processes,Microsoft 365 Commercial,Cost of Revenue,0.046511269244372544,Unfavourable,4.0598701,,4.248699811318278,0.18882971131827736
+FY27,Productivity and Business Processes,Dynamics 365,Cost of Revenue,0.07138111451205664,Unfavourable,0.4919088,,0.5270217983822884,0.035112998382288395
+FY27,More Personal Computing,Windows OEM,Cost of Revenue,-0.008461898484319219,Favourable,0.2786375,,0.27627969776107547,-0.0023578022389245034
+FY25,Productivity and Business Processes,Dynamics 365,Research and Development,-0.021377219125204183,Favourable,1.1795144,,1.1542996622098662,-0.025214737790133716
+FY26,Productivity and Business Processes,Windows Commercial,Research and Development,0.023877888829763938,Unfavourable,0.4748719,0.4827455,0.4862108384365788,0.01133893843657881
+FY26,Productivity and Business Processes,LinkedIn,Research and Development,0.09767996530347589,Unfavourable,3.0448404,3.2816111,3.3422603046266217,0.2974199046266217
+FY26,Productivity and Business Processes,Microsoft 365 Consumer,Research and Development,0.031124785617766104,Unfavourable,0.7625238,0.7829398,0.7862571898034444,0.023733389803444385
+FY26,More Personal Computing,Gaming,Research and Development,0.10265268774946534,Unfavourable,3.6651316,4.1129774,4.041367209695498,0.37623560969549796
+FY26,Intelligent Cloud,Server Products,Research and Development,0.07054026522801249,Unfavourable,1.8278452,1.9164753,1.9567818852037497,0.12893668520374965
+FY26,Intelligent Cloud,Enterprise and Partner Services,Research and Development,-0.026715873568186832,Favourable,0.2953883,0.294195,0.2874967435236784,-0.007891556476321638
+FY27,More Personal Computing,Search and News Advertising,Research and Development,0.02884667806801544,Unfavourable,0.321089,,0.330351351014181,0.009262351014181018
+FY27,More Personal Computing,Gaming,Research and Development,0.1496095498826766,Unfavourable,0.7832578,,0.9004406469000956,0.11718284690009559
+FY27,Productivity and Business Processes,Windows Commercial,Research and Development,0.025583034566444285,Unfavourable,0.1124443,,0.11532096641369963,0.002876666413699627
+FY27,Productivity and Business Processes,LinkedIn,Research and Development,0.03398420460769769,Unfavourable,0.7580174,,0.7837780184177949,0.025760618417794943
+FY27,Productivity and Business Processes,Microsoft 365 Consumer,Research and Development,0.04128969470064092,Unfavourable,0.1912063,,0.19910114975183915,0.007894849751839161
+FY25,More Personal Computing,Devices,Research and Development,0.039574882785849974,Unfavourable,0.7933063,,0.8247013038357763,0.03139500383577633
+FY25,More Personal Computing,Gaming,Research and Development,0.04507330476459592,Unfavourable,4.6597703,,4.869801546864913,0.21003124686491298
+FY25,Productivity and Business Processes,Windows Commercial,Research and Development,-0.026493159680672895,Favourable,0.5192746,,0.5055173751040825,-0.013757224895917535
+FY25,Intelligent Cloud,Server Products,Research and Development,0.01545115388117857,Unfavourable,2.232247,,2.266737791897799,0.034490791897799015
+FY25,Productivity and Business Processes,LinkedIn,Research and Development,0.049527281005175006,Unfavourable,3.2085187,,3.3674279072652586,0.15890920726525878
+FY25,Productivity and Business Processes,Microsoft 365 Consumer,Research and Development,0.06791725385410019,Unfavourable,0.6839502,,0.7304022193569626,0.04645201935696256
+FY25,Intelligent Cloud,Enterprise and Partner Services,Research and Development,0.04494812345116084,Unfavourable,0.3035629,,0.31720748270439236,0.013644582704392373
+FY26,More Personal Computing,Windows OEM,Research and Development,-0.00017606888914944996,Favourable,1.3116565,1.2974432,1.3114255580970993,-0.0002309419029006958
+FY27,Intelligent Cloud,Azure,Research and Development,0.0006534555333019831,Unfavourable,2.99073,,2.9926843090671125,0.001954309067112446
+FY25,Productivity and Business Processes,Microsoft 365 Commercial,Research and Development,0.026620676553759326,Unfavourable,8.3258465,,8.54748616671275,0.22163966671274948
+FY25,Intelligent Cloud,Azure,Research and Development,0.030983725867319567,Unfavourable,7.8316104,,8.07426286973325,0.24265246973324966
+FY25,More Personal Computing,Windows OEM,Research and Development,0.03333608376420938,Unfavourable,1.4497692,,1.4980988274899707,0.04832962748997068
+FY26,More Personal Computing,Search and News Advertising,Research and Development,0.023831698521556532,Unfavourable,1.3957048,1.4057323,1.4289668160186895,0.033262016018689396
+FY26,More Personal Computing,Devices,Research and Development,0.054772327553974876,Unfavourable,0.5950538,0.6052716,0.6276462816458375,0.032592481645837425
+FY27,More Personal Computing,Devices,Research and Development,0.06856038080791449,Unfavourable,0.1008166,,0.10772862448775919,0.006912024487759188
+FY27,Intelligent Cloud,Server Products,Research and Development,5.441473477629799e-05,Unfavourable,0.4180245,,0.4180472466922975,2.274669229745865e-05
+FY27,Intelligent Cloud,Enterprise and Partner Services,Research and Development,0.07468993123454881,Unfavourable,0.0627489,,0.06743561102604358,0.004686711026043579
+FY25,More Personal Computing,Search and News Advertising,Research and Development,0.08095650708169644,Unfavourable,1.3172468,,1.4238864998925418,0.10663969989254189
+FY26,Intelligent Cloud,Azure,Research and Development,0.050578954308094115,Unfavourable,9.7918055,10.1369474,10.287064782978245,0.4952592829782448
+FY26,Productivity and Business Processes,Microsoft 365 Commercial,Research and Development,0.06835294667990999,Unfavourable,8.267853,8.5760137,8.832985115266334,0.5651321152663346
+FY26,Productivity and Business Processes,Dynamics 365,Research and Development,0.045372576003582576,Unfavourable,1.1403934,1.1859967,1.192135986215484,0.0517425862154839
+FY27,Productivity and Business Processes,Microsoft 365 Commercial,Research and Development,0.009655138336684299,Unfavourable,2.1747957,,2.1957936533375264,0.020997953337526323
+FY27,Productivity and Business Processes,Dynamics 365,Research and Development,0.021748393249221953,Unfavourable,0.2839839,,0.2901600935336477,0.006176193533647716
+FY27,More Personal Computing,Windows OEM,Research and Development,0.08325204404377762,Unfavourable,0.2511609,,0.27207055830887483,0.020909658308874847
+FY25,Productivity and Business Processes,Dynamics 365,Sales and Marketing,0.025135599461093783,Unfavourable,0.9699467,,0.9943268917498097,0.02438019174980974
+FY26,Productivity and Business Processes,Windows Commercial,Sales and Marketing,0.061660516032659096,Unfavourable,0.3411201,0.3579306,0.36215374139511225,0.021033641395112275
+FY26,Productivity and Business Processes,LinkedIn,Sales and Marketing,0.028587781205249962,Unfavourable,2.7432038,2.785349,2.82162591003581,0.07842211003581
+FY26,Productivity and Business Processes,Microsoft 365 Consumer,Sales and Marketing,0.02749922833120033,Unfavourable,0.7622369,0.79343,0.7831978265555664,0.02096092655556631
+FY26,More Personal Computing,Gaming,Sales and Marketing,-0.0006159751331741292,Favourable,2.4367085,2.3824358,2.435207548157206,-0.0015009518427939416
+FY26,Intelligent Cloud,Server Products,Sales and Marketing,0.11192805408757289,Unfavourable,1.5715559,1.7147161,1.7474570937768443,0.17590119377684427
+FY26,Intelligent Cloud,Enterprise and Partner Services,Sales and Marketing,0.06622594711036989,Unfavourable,0.6084617,0.641107,0.6487576523628857,0.04029595236288571
+FY27,More Personal Computing,Search and News Advertising,Sales and Marketing,0.05559988900326007,Unfavourable,0.287569,,0.3035578044807785,0.015988804480778517
+FY27,More Personal Computing,Gaming,Sales and Marketing,0.05015046716688798,Unfavourable,0.5075089,,0.5329607084263533,0.025451808426353396
+FY27,Productivity and Business Processes,Windows Commercial,Sales and Marketing,0.03409196712407714,Unfavourable,0.0859057,,0.08883439430017083,0.002928694300170824
+FY27,Productivity and Business Processes,LinkedIn,Sales and Marketing,0.045987496679322115,Unfavourable,0.6400764,,0.6695119113195125,0.029435511319512487
+FY27,Productivity and Business Processes,Microsoft 365 Consumer,Sales and Marketing,0.0190161749414528,Unfavourable,0.191873,,0.19552169053454138,0.0036486905345413686
+FY25,More Personal Computing,Devices,Sales and Marketing,-0.009369586267463204,Favourable,0.7137425,,0.7070550280734952,-0.006687471926504851
+FY25,More Personal Computing,Gaming,Sales and Marketing,0.04153622620616071,Unfavourable,2.7354983,,2.8491205761753684,0.11362227617536831
+FY25,Productivity and Business Processes,Windows Commercial,Sales and Marketing,-0.005302853485948056,Favourable,0.3835282,,0.3814944061476706,-0.002033793852329373
+FY25,Intelligent Cloud,Server Products,Sales and Marketing,-0.0020590885618304577,Favourable,2.028685,,2.024507757920943,-0.004177242079056978
+FY25,Productivity and Business Processes,LinkedIn,Sales and Marketing,0.07054213567426215,Unfavourable,2.6499484,,2.836881419562594,0.18693301956259395
+FY25,Productivity and Business Processes,Microsoft 365 Consumer,Sales and Marketing,-0.03130788976108734,Favourable,0.7589592,,0.735197789033237,-0.02376141096676302
+FY25,Intelligent Cloud,Enterprise and Partner Services,Sales and Marketing,0.042047100863257914,Unfavourable,0.6731931,,0.7014989181761493,0.028305818176149248
+FY26,More Personal Computing,Windows OEM,Sales and Marketing,-0.036774315080912445,Favourable,0.9122639,0.8559878,0.878716019904458,-0.03354788009554195
+FY27,Intelligent Cloud,Azure,Sales and Marketing,0.021295422738483616,Unfavourable,1.7993487,,1.8376665912204408,0.03831789122044087
+FY25,Productivity and Business Processes,Microsoft 365 Commercial,Sales and Marketing,0.03702973035541546,Unfavourable,7.3616735,,7.634274284669608,0.27260078466960813
+FY25,Intelligent Cloud,Azure,Sales and Marketing,0.03950394046367389,Unfavourable,4.7749185,,4.963546596142895,0.18862809614289475
+FY25,More Personal Computing,Windows OEM,Sales and Marketing,0.08213195043926902,Unfavourable,0.9184255,,0.9938575776481609,0.07543207764816082
+FY26,More Personal Computing,Search and News Advertising,Sales and Marketing,0.04946388716981276,Unfavourable,1.2363528,1.2833696,1.2975076154012821,0.06115481540128207
+FY26,More Personal Computing,Devices,Sales and Marketing,0.02705895225926236,Unfavourable,0.5198774,0.5166121,0.5339447377472695,0.014067337747269452
+FY27,More Personal Computing,Devices,Sales and Marketing,0.05584244900795188,Unfavourable,0.0861627,,0.09097423618113745,0.004811536181137457
+FY27,Intelligent Cloud,Server Products,Sales and Marketing,-0.0012389740731293397,Favourable,0.3815612,,0.3810884555658879,-0.0004727444341121316
+FY27,Intelligent Cloud,Enterprise and Partner Services,Sales and Marketing,-0.035232261429320566,Favourable,0.1580484,,0.15247999745271418,-0.005568402547285825
+FY25,More Personal Computing,Search and News Advertising,Sales and Marketing,0.0025829371681522773,Unfavourable,1.273492,,1.2767813498201446,0.003289349820144653
+FY26,Intelligent Cloud,Azure,Sales and Marketing,0.04320803209834434,Unfavourable,6.1470269,6.240155,6.412627835604587,0.2656009356045866
+FY26,Productivity and Business Processes,Microsoft 365 Commercial,Sales and Marketing,-0.0017529508674765104,Favourable,8.0367568,8.1654713,8.022668760195742,-0.014088039804257393
+FY26,Productivity and Business Processes,Dynamics 365,Sales and Marketing,0.020853673793918892,Unfavourable,1.0230704,1.0342434,1.0444051763898141,0.02133477638981414
+FY27,Productivity and Business Processes,Microsoft 365 Commercial,Sales and Marketing,0.0030942671511073883,Unfavourable,2.0185493,,2.024795230791881,0.006245930791880846
+FY27,Productivity and Business Processes,Dynamics 365,Sales and Marketing,-0.003850202598501995,Favourable,0.2525846,,0.2516120981167384,-0.0009725018832615912
+FY27,More Personal Computing,Windows OEM,Sales and Marketing,-0.0051845901095172175,Favourable,0.1873845,,0.18641298817462315,-0.0009715118253768385
+FY26,Productivity and Business Processes,Windows Commercial,General and Administrative,-0.05330326434397248,Favourable,0.1597407,0.1640737,0.15122599924140878,-0.008514700758591206
+FY26,Productivity and Business Processes,LinkedIn,General and Administrative,0.03565148336942192,Unfavourable,0.4237245,0.4769655,0.43883090696496657,0.015106406964966596
+FY26,Productivity and Business Processes,Microsoft 365 Consumer,General and Administrative,-0.03946949152468293,Favourable,0.2044521,0.2079957,0.19638247957184637,-0.008069620428153634
+FY26,More Personal Computing,Gaming,General and Administrative,-0.10010099157721608,Favourable,0.5610451,0.5453155,0.5048839291704617,-0.056161170829538344
+FY26,Intelligent Cloud,Server Products,General and Administrative,-0.0774439642778092,Favourable,0.5930549,0.5835917,0.5471263775096203,-0.045928522490379695
+FY26,Intelligent Cloud,Enterprise and Partner Services,General and Administrative,-0.10194930382057521,Favourable,0.2011322,0.1895318,0.1806269122340993,-0.0205052877659007
+FY26,More Personal Computing,Windows OEM,General and Administrative,-0.01856484258420421,Favourable,0.2774647,0.2899743,0.2723136115218266,-0.005151088478173435
+FY26,More Personal Computing,Search and News Advertising,General and Administrative,-0.09771289104960845,Favourable,0.3948031,0.3654194,0.35622574770365234,-0.03857735229634768
+FY26,More Personal Computing,Devices,General and Administrative,-0.06693634272218318,Favourable,0.1191443,0.1189381,0.11116921630180539,-0.007975083698194609
+FY26,Intelligent Cloud,Azure,General and Administrative,-0.023720957678041277,Favourable,2.5021285,2.5445906,2.442775615746479,-0.05935288425352096
+FY26,Productivity and Business Processes,Microsoft 365 Commercial,General and Administrative,-0.08285159060330205,Favourable,2.4385519,2.3895087,2.2365139963162957,-0.2020379036837044
+FY26,Productivity and Business Processes,Dynamics 365,General and Administrative,0.023743778463682474,Unfavourable,0.1944474,0.2151863,0.19906431598843904,0.004616915988439053
+FY25,Productivity and Business Processes,Dynamics 365,General and Administrative,0.027690905139774458,Unfavourable,0.1842974,,0.1894007618209071,0.005103361820907086
+FY25,Intelligent Cloud,Server Products,General and Administrative,0.11084857297267736,Unfavourable,0.5635434,,0.6260113816981706,0.06246798169817066
+FY25,Intelligent Cloud,Enterprise and Partner Services,General and Administrative,0.06928414266862237,Unfavourable,0.1820145,,0.19462521858575796,0.012610718585757972
+FY25,Productivity and Business Processes,Microsoft 365 Consumer,General and Administrative,0.06451255683323409,Unfavourable,0.1723863,,0.18350738097602093,0.011121080976020933
+FY25,More Personal Computing,Devices,General and Administrative,0.1116046185694739,Unfavourable,0.1325287,,0.14731951501300825,0.014790815013008237
+FY25,More Personal Computing,Gaming,General and Administrative,0.0815005202717356,Unfavourable,0.5544633,,0.5996523474215835,0.04518904742158342
+FY25,Productivity and Business Processes,Windows Commercial,General and Administrative,0.07980284515614544,Unfavourable,0.1470845,,0.15882226157836907,0.011737761578369081
+FY25,Productivity and Business Processes,LinkedIn,General and Administrative,0.03397576030874516,Unfavourable,0.4306493,,0.4452809373939289,0.014631637393928885
+FY25,Productivity and Business Processes,Microsoft 365 Commercial,General and Administrative,0.021148464269693967,Unfavourable,2.0857378,,2.12984795133925,0.04411015133925009
+FY25,More Personal Computing,Windows OEM,General and Administrative,0.0992424368837801,Unfavourable,0.2810956,,0.3089922123413083,0.027896612341308295
+FY25,Intelligent Cloud,Azure,General and Administrative,0.03671480092507773,Unfavourable,1.8497067,,1.9176183132602822,0.06791161326028228
+FY25,More Personal Computing,Search and News Advertising,General and Administrative,0.040943571913675036,Unfavourable,0.3423109,,0.3563263309509848,0.014015430950984835
+FY27,More Personal Computing,Search and News Advertising,General and Administrative,-0.1623710974457212,Favourable,0.1005363,,0.08421211063586774,-0.016324189364132255
+FY27,More Personal Computing,Gaming,General and Administrative,-0.2337083242689939,Favourable,0.1455237,,0.11151359993157621,-0.034010100068423796
+FY27,Productivity and Business Processes,Windows Commercial,General and Administrative,-0.19064218842812863,Favourable,0.0441887,,0.03576446952820595,-0.008424230471794046
+FY27,Productivity and Business Processes,LinkedIn,General and Administrative,-0.1574938714352001,Favourable,0.1241709,,0.1046147442394069,-0.019556155760593087
+FY27,Productivity and Business Processes,Microsoft 365 Consumer,General and Administrative,-0.12452933852850168,Favourable,0.0563374,,0.049321740843584386,-0.007015659156415612
+FY27,Intelligent Cloud,Azure,General and Administrative,-0.16132020856835683,Favourable,0.8207158,,0.6883177559686542,-0.13239804403134584
+FY27,More Personal Computing,Devices,General and Administrative,-0.10729031432254321,Favourable,0.0213,,0.01901471630492983,-0.0022852836950701698
+FY27,Intelligent Cloud,Server Products,General and Administrative,-0.17815505524017117,Favourable,0.1441103,,0.11843632154282237,-0.02567397845717764
+FY27,Intelligent Cloud,Enterprise and Partner Services,General and Administrative,-0.18256705894439762,Favourable,0.0520812,,0.042572888489705044,-0.00950831151029496
+FY27,Productivity and Business Processes,Microsoft 365 Commercial,General and Administrative,-0.10270251898793636,Favourable,0.621071,,0.5572854438296434,-0.06378555617035662
+FY27,Productivity and Business Processes,Dynamics 365,General and Administrative,-0.11139363462192164,Favourable,0.0546762,,0.04858561935468489,-0.00609058064531511
+FY27,More Personal Computing,Windows OEM,General and Administrative,-0.11416904958191942,Favourable,0.0645416,,0.05717294686950359,-0.0073686531304964125

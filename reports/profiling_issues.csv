@@ -1,0 +1,15 @@
+file,issue,planned_fix
+All,"Four date formats: MM/DD/YYYY, DD.MM.YYYY, YYYYMMDD and YYYY-MM",Parse each column with its explicit format
+erp_billing_lines,"';' separator and decimal comma (1.234,56)",Read with sep=';'; convert to float
+gl_cost_postings,"Trailing minus (1,234.56-) and thousand separators",Move '-' to the front; convert to float
+crm_opportunities,"Amounts stored as text with ','","Strip ','; convert to float"
+crm_opportunities,"Country stored as a full name, not an ISO code",Map to country_key through regions
+erp_billing_lines,Credit memos booked months after the invoice,Link to the original invoice via Reference Document
+gl_cost_postings,Month-end accruals reversed in the next period,Keep both lines (they net out)
+gl_cost_postings,Wrong postings reversed in the same period,Remove both lines of each pair; keep the corrected posting
+gl_cost_postings,Late postings into closed periods,"Use fiscal period, not posting date; flag them"
+gl_cost_postings,Blank cost centre,Keep; use Profit Center for product line
+product_hierarchy,Windows Commercial changes segment on 1 Jul 2025,Add restated segment for like-for-like
+fpa_budget,"2 metadata lines, wide months, subtotal rows, USD thousands","Skip lines, drop subtotals, unpivot, x1000"
+erp_billing_lines / gl_cost_postings / crm_opportunities,8 currencies; USD has no FX row,Convert with monthly average rates; add USD = 1
+datacenter_regions,Percentages stored as 0-100,Divide by 100

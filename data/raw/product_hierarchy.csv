@@ -1,0 +1,43 @@
+Material,Material Description,Product Line,Profit Center,Segment,Revenue Type,Base Unit,Valid From,Valid To
+400100,Microsoft 365 E3,Microsoft 365 Commercial,PC-M365C,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400110,Microsoft 365 E5,Microsoft 365 Commercial,PC-M365C,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400120,Office 365 E1,Microsoft 365 Commercial,PC-M365C,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400130,Microsoft 365 Business Basic,Microsoft 365 Commercial,PC-M365C,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400140,Microsoft 365 Business Premium,Microsoft 365 Commercial,PC-M365C,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400150,Microsoft 365 Copilot,Microsoft 365 Commercial,PC-M365C,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400160,Microsoft 365 Personal,Microsoft 365 Consumer,PC-M365X,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400170,Microsoft 365 Family,Microsoft 365 Consumer,PC-M365X,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400180,LinkedIn Talent Solutions,LinkedIn,PC-LNKD,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400190,LinkedIn Marketing Solutions,LinkedIn,PC-LNKD,Productivity and Business Processes,Subscription,CU,20000101,99991231
+400200,LinkedIn Premium Subscriptions,LinkedIn,PC-LNKD,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400210,LinkedIn Sales Navigator,LinkedIn,PC-LNKD,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400220,Dynamics 365 Sales,Dynamics 365,PC-D365,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400230,Dynamics 365 Customer Service,Dynamics 365,PC-D365,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400240,Dynamics 365 Finance,Dynamics 365,PC-D365,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400250,Dynamics 365 Business Central,Dynamics 365,PC-D365,Productivity and Business Processes,Subscription,SEA,20000101,99991231
+400260,Azure Compute,Azure,PC-AZR,Intelligent Cloud,Consumption,CU,20000101,99991231
+400270,Azure Storage,Azure,PC-AZR,Intelligent Cloud,Consumption,CU,20000101,99991231
+400280,Azure SQL Database,Azure,PC-AZR,Intelligent Cloud,Consumption,CU,20000101,99991231
+400290,Azure OpenAI Service,Azure,PC-AZR,Intelligent Cloud,Consumption,CU,20000101,99991231
+400300,Azure Networking,Azure,PC-AZR,Intelligent Cloud,Consumption,CU,20000101,99991231
+400310,Azure Data and Analytics,Azure,PC-AZR,Intelligent Cloud,Consumption,CU,20000101,99991231
+400320,SQL Server Enterprise,Server Products,PC-SRV,Intelligent Cloud,License,EA,20000101,99991231
+400330,Windows Server Datacenter,Server Products,PC-SRV,Intelligent Cloud,License,EA,20000101,99991231
+400340,System Center,Server Products,PC-SRV,Intelligent Cloud,License,EA,20000101,99991231
+400350,Unified Support,Enterprise and Partner Services,PC-EPS,Intelligent Cloud,Services,CU,20000101,99991231
+400360,Consulting Services,Enterprise and Partner Services,PC-EPS,Intelligent Cloud,Services,HR,20000101,99991231
+400370,Partner Training,Enterprise and Partner Services,PC-EPS,Intelligent Cloud,Services,SEA,20000101,99991231
+400380,Windows Enterprise E3,Windows Commercial,PC-WINC,More Personal Computing,Subscription,SEA,20000101,20250630
+400380,Windows Enterprise E3,Windows Commercial,PC-WINC,Productivity and Business Processes,Subscription,SEA,20250701,99991231
+400390,Windows 365 Cloud PC,Windows Commercial,PC-WINC,More Personal Computing,Subscription,SEA,20000101,20250630
+400390,Windows 365 Cloud PC,Windows Commercial,PC-WINC,Productivity and Business Processes,Subscription,SEA,20250701,99991231
+400400,Windows 11 Home OEM,Windows OEM,PC-WOEM,More Personal Computing,License,EA,20000101,99991231
+400410,Windows 11 Pro OEM,Windows OEM,PC-WOEM,More Personal Computing,License,EA,20000101,99991231
+400420,Surface Laptop,Devices,PC-DEV,More Personal Computing,Hardware,EA,20000101,99991231
+400430,Surface Pro,Devices,PC-DEV,More Personal Computing,Hardware,EA,20000101,99991231
+400440,Surface Accessories,Devices,PC-DEV,More Personal Computing,Hardware,EA,20000101,99991231
+400450,Xbox Game Pass,Gaming,PC-GAME,More Personal Computing,Content and Hardware,SEA,20000101,99991231
+400460,Xbox Content,Gaming,PC-GAME,More Personal Computing,Content and Hardware,EA,20000101,99991231
+400470,Xbox Hardware,Gaming,PC-GAME,More Personal Computing,Content and Hardware,EA,20000101,99991231
+400480,Bing Search Ads,Search and News Advertising,PC-ADS,More Personal Computing,Advertising,CU,20000101,99991231
+400490,Microsoft Start Ads,Search and News Advertising,PC-ADS,More Personal Computing,Advertising,CU,20000101,99991231

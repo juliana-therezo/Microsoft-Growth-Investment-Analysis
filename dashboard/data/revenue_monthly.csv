@@ -1,0 +1,396 @@
+month_start,fiscal_year,fiscal_year_quarter,segment,product_line,revenue_bn
+2024-01-01,FY24,FY24-Q3,Productivity and Business Processes,Microsoft 365 Commercial,0.3915059526567846
+2024-01-01,FY24,FY24-Q3,Intelligent Cloud,Azure,4.487697510219239
+2024-01-01,FY24,FY24-Q3,More Personal Computing,Search and News Advertising,1.0229407078130546
+2024-01-01,FY24,FY24-Q3,More Personal Computing,Devices,0.5001355102489735
+2024-01-01,FY24,FY24-Q3,More Personal Computing,Gaming,1.779770340225176
+2024-01-01,FY24,FY24-Q3,Productivity and Business Processes,Dynamics 365,0.009686755090388575
+2024-02-01,FY24,FY24-Q3,Productivity and Business Processes,Windows Commercial,0.019643744184180825
+2024-02-01,FY24,FY24-Q3,Intelligent Cloud,Azure,4.655620498259259
+2024-02-01,FY24,FY24-Q3,Productivity and Business Processes,LinkedIn,0.32452851701319907
+2024-02-01,FY24,FY24-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.49324306376778076
+2024-02-01,FY24,FY24-Q3,More Personal Computing,Windows OEM,0.8847281722727252
+2024-03-01,FY24,FY24-Q3,Productivity and Business Processes,Microsoft 365 Commercial,17.6035389566247
+2024-03-01,FY24,FY24-Q3,Intelligent Cloud,Server Products,2.0159403054798144
+2024-03-01,FY24,FY24-Q3,Intelligent Cloud,Enterprise and Partner Services,1.8724248765731968
+2024-03-01,FY24,FY24-Q3,Productivity and Business Processes,Dynamics 365,1.609788033535552
+2024-03-01,FY24,FY24-Q3,More Personal Computing,Windows OEM,0.946662435324962
+2024-04-01,FY24,FY24-Q4,Productivity and Business Processes,Windows Commercial,0.009173903656495636
+2024-04-01,FY24,FY24-Q4,Intelligent Cloud,Azure,4.853373725318248
+2024-04-01,FY24,FY24-Q4,More Personal Computing,Search and News Advertising,1.008750084065489
+2024-04-01,FY24,FY24-Q4,Productivity and Business Processes,LinkedIn,0.29660790770128115
+2024-04-01,FY24,FY24-Q4,More Personal Computing,Devices,0.4380551412837981
+2024-04-01,FY24,FY24-Q4,More Personal Computing,Gaming,1.6675815666452538
+2024-04-01,FY24,FY24-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.5052658402853132
+2024-05-01,FY24,FY24-Q4,Productivity and Business Processes,Windows Commercial,0.010822528813022697
+2024-05-01,FY24,FY24-Q4,Intelligent Cloud,Server Products,2.112413589592094
+2024-05-01,FY24,FY24-Q4,Productivity and Business Processes,LinkedIn,0.2984943924161422
+2024-05-01,FY24,FY24-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.5367957451058954
+2024-05-01,FY24,FY24-Q4,More Personal Computing,Windows OEM,0.8974184505253446
+2024-05-01,FY24,FY24-Q4,Intelligent Cloud,Enterprise and Partner Services,0.0026018515115232275
+2024-06-01,FY24,FY24-Q4,Productivity and Business Processes,Windows Commercial,1.522799335659146
+2024-06-01,FY24,FY24-Q4,Intelligent Cloud,Azure,5.444346622935266
+2024-06-01,FY24,FY24-Q4,More Personal Computing,Search and News Advertising,0.9795580393444048
+2024-06-01,FY24,FY24-Q4,Productivity and Business Processes,LinkedIn,3.577922243050089
+2024-06-01,FY24,FY24-Q4,More Personal Computing,Devices,0.483447307590186
+2024-06-01,FY24,FY24-Q4,More Personal Computing,Gaming,1.8387211838471793
+2024-06-01,FY24,FY24-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.583500467418443
+2024-07-01,FY25,FY25-Q1,Productivity and Business Processes,Windows Commercial,0.00695723325590408
+2024-07-01,FY25,FY25-Q1,Intelligent Cloud,Server Products,2.016385820853825
+2024-07-01,FY25,FY25-Q1,Productivity and Business Processes,LinkedIn,0.28176695982326483
+2024-07-01,FY25,FY25-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.5184131842620795
+2024-07-01,FY25,FY25-Q1,More Personal Computing,Windows OEM,0.9242656436067296
+2024-07-01,FY25,FY25-Q1,Intelligent Cloud,Enterprise and Partner Services,0.00124671865
+2024-08-01,FY25,FY25-Q1,Productivity and Business Processes,Microsoft 365 Commercial,0.4745570792119507
+2024-08-01,FY25,FY25-Q1,Intelligent Cloud,Azure,5.354219222449391
+2024-08-01,FY25,FY25-Q1,Productivity and Business Processes,Dynamics 365,0.00957806786718658
+2024-08-01,FY25,FY25-Q1,More Personal Computing,Windows OEM,0.9684610822362065
+2024-09-01,FY25,FY25-Q1,Productivity and Business Processes,Microsoft 365 Commercial,18.36291112524667
+2024-09-01,FY25,FY25-Q1,Intelligent Cloud,Server Products,2.0162001084620216
+2024-09-01,FY25,FY25-Q1,Intelligent Cloud,Enterprise and Partner Services,1.8657664830023692
+2024-09-01,FY25,FY25-Q1,Productivity and Business Processes,Dynamics 365,1.6459691709468445
+2024-09-01,FY25,FY25-Q1,More Personal Computing,Search and News Advertising,1.126542924924097
+2024-09-01,FY25,FY25-Q1,More Personal Computing,Devices,0.4805071481683728
+2024-09-01,FY25,FY25-Q1,More Personal Computing,Gaming,1.8264508438862626
+2024-10-01,FY25,FY25-Q2,Productivity and Business Processes,Microsoft 365 Commercial,0.3974074618895053
+2024-10-01,FY25,FY25-Q2,Intelligent Cloud,Server Products,2.0141477714116665
+2024-10-01,FY25,FY25-Q2,Productivity and Business Processes,Dynamics 365,0.011646734559366998
+2024-10-01,FY25,FY25-Q2,More Personal Computing,Windows OEM,0.8744516397573758
+2024-10-01,FY25,FY25-Q2,Intelligent Cloud,Enterprise and Partner Services,0.005702066857991053
+2024-11-01,FY25,FY25-Q2,Productivity and Business Processes,Microsoft 365 Commercial,0.40911987770197106
+2024-11-01,FY25,FY25-Q2,Intelligent Cloud,Server Products,2.0068146566886167
+2024-11-01,FY25,FY25-Q2,Productivity and Business Processes,Dynamics 365,0.0108993867729757
+2024-11-01,FY25,FY25-Q2,More Personal Computing,Windows OEM,1.0757186574175106
+2024-11-01,FY25,FY25-Q2,Intelligent Cloud,Enterprise and Partner Services,0.00180968265
+2024-12-01,FY25,FY25-Q2,Productivity and Business Processes,Windows Commercial,1.4994021752024753
+2024-12-01,FY25,FY25-Q2,Intelligent Cloud,Server Products,1.995544083677229
+2024-12-01,FY25,FY25-Q2,Intelligent Cloud,Enterprise and Partner Services,1.8590343536577727
+2024-12-01,FY25,FY25-Q2,Productivity and Business Processes,LinkedIn,3.6517785966176737
+2024-12-01,FY25,FY25-Q2,Productivity and Business Processes,Microsoft 365 Consumer,0.6755247791149305
+2024-12-01,FY25,FY25-Q2,More Personal Computing,Windows OEM,1.2418535630038317
+2025-01-01,FY25,FY25-Q3,Productivity and Business Processes,Microsoft 365 Commercial,0.38967269798914045
+2025-01-01,FY25,FY25-Q3,Intelligent Cloud,Server Products,1.969542175804092
+2025-01-01,FY25,FY25-Q3,More Personal Computing,Search and News Advertising,1.1402124620897736
+2025-01-01,FY25,FY25-Q3,More Personal Computing,Devices,0.4695998215383594
+2025-01-01,FY25,FY25-Q3,Productivity and Business Processes,Dynamics 365,0.01442622232544081
+2025-01-01,FY25,FY25-Q3,More Personal Computing,Gaming,1.9409389833099127
+2025-01-01,FY25,FY25-Q3,Intelligent Cloud,Enterprise and Partner Services,0.0005654203599999999
+2025-02-01,FY25,FY25-Q3,Productivity and Business Processes,Microsoft 365 Commercial,0.43060542280639386
+2025-02-01,FY25,FY25-Q3,Intelligent Cloud,Azure,6.296033512326955
+2025-02-01,FY25,FY25-Q3,More Personal Computing,Search and News Advertising,1.0966872397276035
+2025-02-01,FY25,FY25-Q3,More Personal Computing,Devices,0.4312568062863214
+2025-02-01,FY25,FY25-Q3,Productivity and Business Processes,Dynamics 365,0.01078530904819319
+2025-02-01,FY25,FY25-Q3,More Personal Computing,Gaming,1.802878838282898
+2025-03-01,FY25,FY25-Q3,Productivity and Business Processes,Windows Commercial,1.4887180211514195
+2025-03-01,FY25,FY25-Q3,Intelligent Cloud,Azure,6.587092517975461
+2025-03-01,FY25,FY25-Q3,More Personal Computing,Search and News Advertising,1.13505392935491
+2025-03-01,FY25,FY25-Q3,Productivity and Business Processes,LinkedIn,3.6781600036309916
+2025-03-01,FY25,FY25-Q3,More Personal Computing,Devices,0.45822180350353897
+2025-03-01,FY25,FY25-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.6062093216573439
+2025-03-01,FY25,FY25-Q3,More Personal Computing,Gaming,1.9475342875440331
+2025-04-01,FY25,FY25-Q4,Productivity and Business Processes,Microsoft 365 Commercial,0.4282676627302964
+2025-04-01,FY25,FY25-Q4,Intelligent Cloud,Server Products,2.08934516915639
+2025-04-01,FY25,FY25-Q4,Productivity and Business Processes,Dynamics 365,0.013678321588339558
+2025-04-01,FY25,FY25-Q4,More Personal Computing,Windows OEM,0.9339877177661416
+2025-04-01,FY25,FY25-Q4,Intelligent Cloud,Enterprise and Partner Services,0.0028372114603996924
+2025-05-01,FY25,FY25-Q4,Productivity and Business Processes,Windows Commercial,0.009232187761132805
+2025-05-01,FY25,FY25-Q4,Intelligent Cloud,Server Products,2.0598019227190827
+2025-05-01,FY25,FY25-Q4,Productivity and Business Processes,LinkedIn,0.2766887136589773
+2025-05-01,FY25,FY25-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.6593028057489541
+2025-05-01,FY25,FY25-Q4,More Personal Computing,Windows OEM,0.9893926720344678
+2025-05-01,FY25,FY25-Q4,Intelligent Cloud,Enterprise and Partner Services,0.010544518263784716
+2025-06-01,FY25,FY25-Q4,Productivity and Business Processes,Windows Commercial,1.6104688863316294
+2025-06-01,FY25,FY25-Q4,Intelligent Cloud,Server Products,2.0514891770149597
+2025-06-01,FY25,FY25-Q4,Intelligent Cloud,Enterprise and Partner Services,1.947340714160816
+2025-06-01,FY25,FY25-Q4,More Personal Computing,Search and News Advertising,1.1468771732077416
+2025-06-01,FY25,FY25-Q4,Productivity and Business Processes,LinkedIn,4.101097865466013
+2025-06-01,FY25,FY25-Q4,More Personal Computing,Devices,0.46307388989418247
+2025-06-01,FY25,FY25-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.7150380056042918
+2025-06-01,FY25,FY25-Q4,More Personal Computing,Gaming,1.9932758477733052
+2025-07-01,FY26,FY26-Q1,Productivity and Business Processes,Microsoft 365 Commercial,0.42423633613857925
+2025-07-01,FY26,FY26-Q1,Intelligent Cloud,Server Products,1.9981742788435761
+2025-07-01,FY26,FY26-Q1,Productivity and Business Processes,Dynamics 365,0.012176062752696235
+2025-07-01,FY26,FY26-Q1,More Personal Computing,Windows OEM,0.9691534148888556
+2025-07-01,FY26,FY26-Q1,Intelligent Cloud,Enterprise and Partner Services,0.007418904911374451
+2025-08-01,FY26,FY26-Q1,Productivity and Business Processes,Windows Commercial,0.009516231267901814
+2025-08-01,FY26,FY26-Q1,Intelligent Cloud,Azure,7.5821473210996695
+2025-08-01,FY26,FY26-Q1,More Personal Computing,Search and News Advertising,1.2207021859479341
+2025-08-01,FY26,FY26-Q1,Productivity and Business Processes,LinkedIn,0.252781076934489
+2025-08-01,FY26,FY26-Q1,More Personal Computing,Devices,0.45474851608365685
+2025-08-01,FY26,FY26-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.6733407719777104
+2025-08-01,FY26,FY26-Q1,More Personal Computing,Gaming,1.9675515698245787
+2025-09-01,FY26,FY26-Q1,Productivity and Business Processes,Windows Commercial,1.5783064728899387
+2025-09-01,FY26,FY26-Q1,Intelligent Cloud,Server Products,2.00018320197291
+2025-09-01,FY26,FY26-Q1,Intelligent Cloud,Enterprise and Partner Services,1.9034604243219972
+2025-09-01,FY26,FY26-Q1,More Personal Computing,Search and News Advertising,1.3280499149762486
+2025-09-01,FY26,FY26-Q1,Productivity and Business Processes,LinkedIn,4.058345038200145
+2025-09-01,FY26,FY26-Q1,More Personal Computing,Devices,0.4490185567836591
+2025-09-01,FY26,FY26-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.6798228644138353
+2025-09-01,FY26,FY26-Q1,More Personal Computing,Gaming,1.8529633542083916
+2025-10-01,FY26,FY26-Q2,Productivity and Business Processes,Windows Commercial,0.007178763660790979
+2025-10-01,FY26,FY26-Q2,Intelligent Cloud,Azure,7.980192186159058
+2025-10-01,FY26,FY26-Q2,Productivity and Business Processes,LinkedIn,0.27532129994712023
+2025-10-01,FY26,FY26-Q2,Productivity and Business Processes,Microsoft 365 Consumer,0.5487708550968157
+2025-10-01,FY26,FY26-Q2,More Personal Computing,Windows OEM,0.8589079740997272
+2025-11-01,FY26,FY26-Q2,Productivity and Business Processes,Microsoft 365 Commercial,0.4271608499364537
+2025-11-01,FY26,FY26-Q2,Intelligent Cloud,Azure,8.322619858590109
+2025-11-01,FY26,FY26-Q2,More Personal Computing,Search and News Advertising,1.322160441208827
+2025-11-01,FY26,FY26-Q2,More Personal Computing,Devices,0.44064360500332356
+2025-11-01,FY26,FY26-Q2,Productivity and Business Processes,Dynamics 365,0.010930390132052645
+2025-11-01,FY26,FY26-Q2,More Personal Computing,Gaming,1.9619328260719433
+2025-12-01,FY26,FY26-Q2,Productivity and Business Processes,Windows Commercial,1.5820163656117106
+2025-12-01,FY26,FY26-Q2,Intelligent Cloud,Azure,8.610396862919059
+2025-12-01,FY26,FY26-Q2,Productivity and Business Processes,LinkedIn,4.116370619739142
+2025-12-01,FY26,FY26-Q2,Productivity and Business Processes,Microsoft 365 Consumer,0.8064255459541713
+2025-12-01,FY26,FY26-Q2,More Personal Computing,Windows OEM,1.2336206609995228
+2026-01-01,FY26,FY26-Q3,Productivity and Business Processes,Microsoft 365 Commercial,0.4307653458881303
+2026-01-01,FY26,FY26-Q3,Intelligent Cloud,Server Products,1.9289985921816875
+2026-01-01,FY26,FY26-Q3,Productivity and Business Processes,Dynamics 365,0.012825880803686171
+2026-01-01,FY26,FY26-Q3,More Personal Computing,Windows OEM,0.9661160703064693
+2026-01-01,FY26,FY26-Q3,Intelligent Cloud,Enterprise and Partner Services,0.00016392027101300605
+2026-02-01,FY26,FY26-Q3,Productivity and Business Processes,Microsoft 365 Commercial,0.4401790256785569
+2026-02-01,FY26,FY26-Q3,Intelligent Cloud,Server Products,1.9283120607171065
+2026-02-01,FY26,FY26-Q3,Productivity and Business Processes,Dynamics 365,0.01760768900222344
+2026-02-01,FY26,FY26-Q3,Intelligent Cloud,Enterprise and Partner Services,0.0047524764678527716
+2026-02-01,FY26,FY26-Q3,More Personal Computing,Windows OEM,0.9201328153988771
+2026-03-01,FY26,FY26-Q3,Productivity and Business Processes,Windows Commercial,1.6081556694117647
+2026-03-01,FY26,FY26-Q3,Intelligent Cloud,Server Products,1.9212828446976296
+2026-03-01,FY26,FY26-Q3,Intelligent Cloud,Enterprise and Partner Services,1.9150208538950937
+2026-03-01,FY26,FY26-Q3,Productivity and Business Processes,LinkedIn,4.245079518825476
+2026-03-01,FY26,FY26-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.7399566898295826
+2026-03-01,FY26,FY26-Q3,More Personal Computing,Windows OEM,0.9707465531381677
+2026-04-01,FY26,FY26-Q4,Productivity and Business Processes,Microsoft 365 Commercial,0.4635803255807265
+2026-04-01,FY26,FY26-Q4,Intelligent Cloud,Azure,9.978178035544603
+2026-04-01,FY26,FY26-Q4,More Personal Computing,Search and News Advertising,1.2874871884239103
+2026-04-01,FY26,FY26-Q4,More Personal Computing,Devices,0.3226255822928004
+2026-04-01,FY26,FY26-Q4,Productivity and Business Processes,Dynamics 365,0.013608201406452441
+2026-04-01,FY26,FY26-Q4,More Personal Computing,Gaming,1.637362792552641
+2026-05-01,FY26,FY26-Q4,Productivity and Business Processes,Microsoft 365 Commercial,0.4544571042450679
+2026-05-01,FY26,FY26-Q4,Intelligent Cloud,Azure,10.333059402404572
+2026-05-01,FY26,FY26-Q4,More Personal Computing,Search and News Advertising,1.3144262898289967
+2026-05-01,FY26,FY26-Q4,More Personal Computing,Devices,0.33937130545876915
+2026-05-01,FY26,FY26-Q4,More Personal Computing,Gaming,1.7331300478410938
+2026-05-01,FY26,FY26-Q4,Productivity and Business Processes,Dynamics 365,0.01504120328145029
+2026-06-01,FY26,FY26-Q4,Productivity and Business Processes,Windows Commercial,1.7041870956289291
+2026-06-01,FY26,FY26-Q4,Intelligent Cloud,Azure,10.763751366604149
+2026-06-01,FY26,FY26-Q4,Productivity and Business Processes,LinkedIn,4.463820331706999
+2026-06-01,FY26,FY26-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.824654605717021
+2026-06-01,FY26,FY26-Q4,More Personal Computing,Windows OEM,0.9749547384859519
+2026-07-01,FY27,FY27-Q1,Productivity and Business Processes,Windows Commercial,0.008175996295651859
+2026-07-01,FY27,FY27-Q1,Intelligent Cloud,Server Products,1.8999428561461602
+2026-07-01,FY27,FY27-Q1,Productivity and Business Processes,LinkedIn,0.2963419477649947
+2026-07-01,FY27,FY27-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.7616064437267587
+2026-07-01,FY27,FY27-Q1,More Personal Computing,Windows OEM,0.8749858309474257
+2026-07-01,FY27,FY27-Q1,Intelligent Cloud,Enterprise and Partner Services,0.0032438527691177497
+2026-08-01,FY27,FY27-Q1,Productivity and Business Processes,Windows Commercial,0.010786137521757918
+2026-08-01,FY27,FY27-Q1,Intelligent Cloud,Azure,11.003195628171998
+2026-08-01,FY27,FY27-Q1,Productivity and Business Processes,LinkedIn,0.29324441957896774
+2026-08-01,FY27,FY27-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.797937500930586
+2026-08-01,FY27,FY27-Q1,More Personal Computing,Windows OEM,0.9339842505135022
+2026-09-01,FY27,FY27-Q1,Productivity and Business Processes,Windows Commercial,1.6969954138001866
+2026-09-01,FY27,FY27-Q1,Intelligent Cloud,Server Products,1.9012839424149715
+2026-09-01,FY27,FY27-Q1,Intelligent Cloud,Enterprise and Partner Services,2.03548095498289
+2026-09-01,FY27,FY27-Q1,Productivity and Business Processes,LinkedIn,4.429765585524208
+2026-09-01,FY27,FY27-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.8068832547015151
+2026-09-01,FY27,FY27-Q1,More Personal Computing,Windows OEM,0.9341532192465554
+2024-01-01,FY24,FY24-Q3,Productivity and Business Processes,Windows Commercial,0.007941288579006124
+2024-01-01,FY24,FY24-Q3,Intelligent Cloud,Server Products,2.0101117148198893
+2024-01-01,FY24,FY24-Q3,Productivity and Business Processes,LinkedIn,0.29727989005174027
+2024-01-01,FY24,FY24-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.5223436739912342
+2024-01-01,FY24,FY24-Q3,More Personal Computing,Windows OEM,0.9339590048395631
+2024-02-01,FY24,FY24-Q3,Productivity and Business Processes,Microsoft 365 Commercial,0.44401426780725317
+2024-02-01,FY24,FY24-Q3,Intelligent Cloud,Server Products,2.0206454938894964
+2024-02-01,FY24,FY24-Q3,More Personal Computing,Search and News Advertising,1.007161229379802
+2024-02-01,FY24,FY24-Q3,More Personal Computing,Devices,0.45011254348936103
+2024-02-01,FY24,FY24-Q3,More Personal Computing,Gaming,1.7072982273449593
+2024-02-01,FY24,FY24-Q3,Productivity and Business Processes,Dynamics 365,0.009781329023009853
+2024-02-01,FY24,FY24-Q3,Intelligent Cloud,Enterprise and Partner Services,0.0011169972824204802
+2024-03-01,FY24,FY24-Q3,Productivity and Business Processes,Windows Commercial,1.4599835821787248
+2024-03-01,FY24,FY24-Q3,Intelligent Cloud,Azure,4.9074977302423894
+2024-03-01,FY24,FY24-Q3,More Personal Computing,Search and News Advertising,1.0486004867348546
+2024-03-01,FY24,FY24-Q3,Productivity and Business Processes,LinkedIn,3.3775687891205406
+2024-03-01,FY24,FY24-Q3,More Personal Computing,Devices,0.4887954778408729
+2024-03-01,FY24,FY24-Q3,More Personal Computing,Gaming,1.7965270035183092
+2024-03-01,FY24,FY24-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.5291966505350929
+2024-04-01,FY24,FY24-Q4,Productivity and Business Processes,Microsoft 365 Commercial,0.43103317378827455
+2024-04-01,FY24,FY24-Q4,Intelligent Cloud,Server Products,2.098705413050628
+2024-04-01,FY24,FY24-Q4,Productivity and Business Processes,Dynamics 365,0.01003389913728666
+2024-04-01,FY24,FY24-Q4,More Personal Computing,Windows OEM,0.8628769357705085
+2024-04-01,FY24,FY24-Q4,Intelligent Cloud,Enterprise and Partner Services,0.004163592054058543
+2024-05-01,FY24,FY24-Q4,Productivity and Business Processes,Microsoft 365 Commercial,0.4223072197280883
+2024-05-01,FY24,FY24-Q4,Intelligent Cloud,Azure,5.071266179838128
+2024-05-01,FY24,FY24-Q4,More Personal Computing,Search and News Advertising,1.0410677631079113
+2024-05-01,FY24,FY24-Q4,More Personal Computing,Devices,0.46444340916193416
+2024-05-01,FY24,FY24-Q4,More Personal Computing,Gaming,1.706991019845449
+2024-05-01,FY24,FY24-Q4,Productivity and Business Processes,Dynamics 365,0.013844447096805892
+2024-06-01,FY24,FY24-Q4,Productivity and Business Processes,Microsoft 365 Commercial,18.47160652936747
+2024-06-01,FY24,FY24-Q4,Intelligent Cloud,Server Products,2.1015618517705272
+2024-06-01,FY24,FY24-Q4,Intelligent Cloud,Enterprise and Partner Services,1.9438153010864732
+2024-06-01,FY24,FY24-Q4,Productivity and Business Processes,Dynamics 365,1.6619002455487537
+2024-06-01,FY24,FY24-Q4,More Personal Computing,Windows OEM,0.9549422410682334
+2024-07-01,FY25,FY25-Q1,Productivity and Business Processes,Microsoft 365 Commercial,0.3908093936756141
+2024-07-01,FY25,FY25-Q1,Intelligent Cloud,Azure,5.100178336862435
+2024-07-01,FY25,FY25-Q1,More Personal Computing,Search and News Advertising,1.0553529886651323
+2024-07-01,FY25,FY25-Q1,More Personal Computing,Devices,0.46948169931775424
+2024-07-01,FY25,FY25-Q1,More Personal Computing,Gaming,1.8028873706920643
+2024-07-01,FY25,FY25-Q1,Productivity and Business Processes,Dynamics 365,0.03362111611926231
+2024-08-01,FY25,FY25-Q1,Productivity and Business Processes,Windows Commercial,0.011099914633026313
+2024-08-01,FY25,FY25-Q1,Intelligent Cloud,Server Products,2.025324606400811
+2024-08-01,FY25,FY25-Q1,More Personal Computing,Search and News Advertising,1.0525915461632256
+2024-08-01,FY25,FY25-Q1,Productivity and Business Processes,LinkedIn,0.29338574699542813
+2024-08-01,FY25,FY25-Q1,More Personal Computing,Devices,0.49085732799991577
+2024-08-01,FY25,FY25-Q1,More Personal Computing,Gaming,1.9522208191700468
+2024-08-01,FY25,FY25-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.55775438545305
+2024-08-01,FY25,FY25-Q1,Intelligent Cloud,Enterprise and Partner Services,0.004367661865615744
+2024-09-01,FY25,FY25-Q1,Productivity and Business Processes,Windows Commercial,1.469891528731155
+2024-09-01,FY25,FY25-Q1,Intelligent Cloud,Azure,5.644994841505329
+2024-09-01,FY25,FY25-Q1,Productivity and Business Processes,LinkedIn,3.529183695756741
+2024-09-01,FY25,FY25-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.559150571858548
+2024-09-01,FY25,FY25-Q1,More Personal Computing,Windows OEM,0.9768064886751346
+2024-10-01,FY25,FY25-Q2,Productivity and Business Processes,Windows Commercial,0.008044358741293963
+2024-10-01,FY25,FY25-Q2,Intelligent Cloud,Azure,5.638941255540856
+2024-10-01,FY25,FY25-Q2,More Personal Computing,Search and News Advertising,1.1552907256546598
+2024-10-01,FY25,FY25-Q2,Productivity and Business Processes,LinkedIn,0.28907426466672426
+2024-10-01,FY25,FY25-Q2,More Personal Computing,Devices,0.4365358652215265
+2024-10-01,FY25,FY25-Q2,Productivity and Business Processes,Microsoft 365 Consumer,0.46465493731917
+2024-10-01,FY25,FY25-Q2,More Personal Computing,Gaming,1.7247031399827042
+2024-11-01,FY25,FY25-Q2,Productivity and Business Processes,Windows Commercial,0.007531780213450245
+2024-11-01,FY25,FY25-Q2,Intelligent Cloud,Azure,5.7988045158861485
+2024-11-01,FY25,FY25-Q2,More Personal Computing,Search and News Advertising,1.2089203775862691
+2024-11-01,FY25,FY25-Q2,Productivity and Business Processes,LinkedIn,0.28396689509296213
+2024-11-01,FY25,FY25-Q2,More Personal Computing,Devices,0.5233112254021335
+2024-11-01,FY25,FY25-Q2,Productivity and Business Processes,Microsoft 365 Consumer,0.5774562491318538
+2024-11-01,FY25,FY25-Q2,More Personal Computing,Gaming,2.111268394798629
+2024-12-01,FY25,FY25-Q2,Productivity and Business Processes,Microsoft 365 Commercial,19.15252759137719
+2024-12-01,FY25,FY25-Q2,Intelligent Cloud,Azure,6.0469294721388485
+2024-12-01,FY25,FY25-Q2,Productivity and Business Processes,Dynamics 365,1.7617437535202194
+2024-12-01,FY25,FY25-Q2,More Personal Computing,Search and News Advertising,1.2640133263965025
+2024-12-01,FY25,FY25-Q2,More Personal Computing,Devices,0.59258716984028
+2024-12-01,FY25,FY25-Q2,More Personal Computing,Gaming,2.4518745974753813
+2025-01-01,FY25,FY25-Q3,Productivity and Business Processes,Windows Commercial,0.00703776882802485
+2025-01-01,FY25,FY25-Q3,Intelligent Cloud,Azure,6.052588077653335
+2025-01-01,FY25,FY25-Q3,Productivity and Business Processes,LinkedIn,0.2709383517213655
+2025-01-01,FY25,FY25-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.5929291029520611
+2025-01-01,FY25,FY25-Q3,More Personal Computing,Windows OEM,0.9854909819980455
+2025-02-01,FY25,FY25-Q3,Productivity and Business Processes,Windows Commercial,0.011910616432866363
+2025-02-01,FY25,FY25-Q3,Intelligent Cloud,Server Products,1.9789524212839917
+2025-02-01,FY25,FY25-Q3,Productivity and Business Processes,LinkedIn,0.28096278470448977
+2025-02-01,FY25,FY25-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.5629709652708917
+2025-02-01,FY25,FY25-Q3,More Personal Computing,Windows OEM,0.9392001837106538
+2025-02-01,FY25,FY25-Q3,Intelligent Cloud,Enterprise and Partner Services,0.0055127298738084874
+2025-03-01,FY25,FY25-Q3,Productivity and Business Processes,Microsoft 365 Commercial,19.578967407627363
+2025-03-01,FY25,FY25-Q3,Productivity and Business Processes,Dynamics 365,1.7911473824328452
+2025-03-01,FY25,FY25-Q3,Intelligent Cloud,Server Products,1.971492477345307
+2025-03-01,FY25,FY25-Q3,Intelligent Cloud,Enterprise and Partner Services,1.8174440201362159
+2025-03-01,FY25,FY25-Q3,More Personal Computing,Windows OEM,0.9956713935700872
+2025-04-01,FY25,FY25-Q4,Productivity and Business Processes,Windows Commercial,0.008109951055186033
+2025-04-01,FY25,FY25-Q4,Intelligent Cloud,Azure,6.943625980875812
+2025-04-01,FY25,FY25-Q4,More Personal Computing,Search and News Advertising,1.2001935939949429
+2025-04-01,FY25,FY25-Q4,Productivity and Business Processes,LinkedIn,0.27289130984432924
+2025-04-01,FY25,FY25-Q4,More Personal Computing,Devices,0.43020915183989483
+2025-04-01,FY25,FY25-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.6030681682195392
+2025-04-01,FY25,FY25-Q4,More Personal Computing,Gaming,1.7792952624038343
+2025-05-01,FY25,FY25-Q4,Productivity and Business Processes,Microsoft 365 Commercial,0.4520049125509025
+2025-05-01,FY25,FY25-Q4,Intelligent Cloud,Azure,7.171057482765686
+2025-05-01,FY25,FY25-Q4,More Personal Computing,Search and News Advertising,1.1901059210526854
+2025-05-01,FY25,FY25-Q4,More Personal Computing,Devices,0.4481868620020076
+2025-05-01,FY25,FY25-Q4,Productivity and Business Processes,Dynamics 365,0.0156625497919228
+2025-05-01,FY25,FY25-Q4,More Personal Computing,Gaming,1.8429479420485853
+2025-06-01,FY25,FY25-Q4,Productivity and Business Processes,Microsoft 365 Commercial,21.850753672029718
+2025-06-01,FY25,FY25-Q4,Productivity and Business Processes,Dynamics 365,2.0010908116182438
+2025-06-01,FY25,FY25-Q4,Intelligent Cloud,Azure,7.480565117245993
+2025-06-01,FY25,FY25-Q4,More Personal Computing,Windows OEM,1.0371011475346754
+2025-07-01,FY26,FY26-Q1,Productivity and Business Processes,Windows Commercial,0.010322517709984028
+2025-07-01,FY26,FY26-Q1,Intelligent Cloud,Azure,7.3779831702290055
+2025-07-01,FY26,FY26-Q1,More Personal Computing,Search and News Advertising,1.1977790050034287
+2025-07-01,FY26,FY26-Q1,Productivity and Business Processes,LinkedIn,0.25357004798989274
+2025-07-01,FY26,FY26-Q1,More Personal Computing,Devices,0.422788679461762
+2025-07-01,FY26,FY26-Q1,Productivity and Business Processes,Microsoft 365 Consumer,0.631062021479233
+2025-07-01,FY26,FY26-Q1,More Personal Computing,Gaming,1.8142306971342101
+2025-08-01,FY26,FY26-Q1,Productivity and Business Processes,Microsoft 365 Commercial,0.4993916796579378
+2025-08-01,FY26,FY26-Q1,Intelligent Cloud,Server Products,1.989664316758457
+2025-08-01,FY26,FY26-Q1,Productivity and Business Processes,Dynamics 365,0.04017789974856987
+2025-08-01,FY26,FY26-Q1,More Personal Computing,Windows OEM,1.033438765568175
+2025-08-01,FY26,FY26-Q1,Intelligent Cloud,Enterprise and Partner Services,0.003764172457096598
+2025-09-01,FY26,FY26-Q1,Productivity and Business Processes,Microsoft 365 Commercial,21.77210220612153
+2025-09-01,FY26,FY26-Q1,Productivity and Business Processes,Dynamics 365,1.9678476581882245
+2025-09-01,FY26,FY26-Q1,Intelligent Cloud,Azure,7.898592873810981
+2025-09-01,FY26,FY26-Q1,More Personal Computing,Windows OEM,1.0054322677719765
+2025-10-01,FY26,FY26-Q2,Productivity and Business Processes,Microsoft 365 Commercial,0.44158465855779866
+2025-10-01,FY26,FY26-Q2,Intelligent Cloud,Server Products,1.9494734103669091
+2025-10-01,FY26,FY26-Q2,More Personal Computing,Search and News Advertising,1.2612462813347785
+2025-10-01,FY26,FY26-Q2,More Personal Computing,Devices,0.3703093785992147
+2025-10-01,FY26,FY26-Q2,Productivity and Business Processes,Dynamics 365,0.012353095554869556
+2025-10-01,FY26,FY26-Q2,More Personal Computing,Gaming,1.5580780514789696
+2025-10-01,FY26,FY26-Q2,Intelligent Cloud,Enterprise and Partner Services,0.0006151360300000001
+2025-11-01,FY26,FY26-Q2,Productivity and Business Processes,Windows Commercial,0.008511044817525475
+2025-11-01,FY26,FY26-Q2,Intelligent Cloud,Server Products,1.9804195179453656
+2025-11-01,FY26,FY26-Q2,Productivity and Business Processes,LinkedIn,0.24727486656143233
+2025-11-01,FY26,FY26-Q2,Productivity and Business Processes,Microsoft 365 Consumer,0.6994271083528583
+2025-11-01,FY26,FY26-Q2,More Personal Computing,Windows OEM,1.0694225768856036
+2025-11-01,FY26,FY26-Q2,Intelligent Cloud,Enterprise and Partner Services,0.004647130239488875
+2025-12-01,FY26,FY26-Q2,Productivity and Business Processes,Microsoft 365 Commercial,22.669710640810244
+2025-12-01,FY26,FY26-Q2,Productivity and Business Processes,Dynamics 365,2.084832398086189
+2025-12-01,FY26,FY26-Q2,Intelligent Cloud,Server Products,1.977328045953802
+2025-12-01,FY26,FY26-Q2,Intelligent Cloud,Enterprise and Partner Services,1.91776452483959
+2025-12-01,FY26,FY26-Q2,More Personal Computing,Search and News Advertising,1.4293818200226933
+2025-12-01,FY26,FY26-Q2,More Personal Computing,Devices,0.5187972112245872
+2025-12-01,FY26,FY26-Q2,More Personal Computing,Gaming,2.2268566379862107
+2026-01-01,FY26,FY26-Q3,Productivity and Business Processes,Windows Commercial,0.006279241866283908
+2026-01-01,FY26,FY26-Q3,Intelligent Cloud,Azure,8.668790218185805
+2026-01-01,FY26,FY26-Q3,More Personal Computing,Search and News Advertising,1.2659410874767514
+2026-01-01,FY26,FY26-Q3,Productivity and Business Processes,LinkedIn,0.2422607552313969
+2026-01-01,FY26,FY26-Q3,More Personal Computing,Devices,0.3870938679767043
+2026-01-01,FY26,FY26-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.7187260279562535
+2026-01-01,FY26,FY26-Q3,More Personal Computing,Gaming,1.7950420293598737
+2026-02-01,FY26,FY26-Q3,Productivity and Business Processes,Windows Commercial,0.010746314742598873
+2026-02-01,FY26,FY26-Q3,Intelligent Cloud,Azure,8.880018047539927
+2026-02-01,FY26,FY26-Q3,More Personal Computing,Search and News Advertising,1.2300879091621977
+2026-02-01,FY26,FY26-Q3,Productivity and Business Processes,LinkedIn,0.2677751096958166
+2026-02-01,FY26,FY26-Q3,More Personal Computing,Devices,0.36899243620047345
+2026-02-01,FY26,FY26-Q3,Productivity and Business Processes,Microsoft 365 Consumer,0.6845175781605456
+2026-02-01,FY26,FY26-Q3,More Personal Computing,Gaming,1.6730284014781225
+2026-03-01,FY26,FY26-Q3,Productivity and Business Processes,Microsoft 365 Commercial,23.393786148803276
+2026-03-01,FY26,FY26-Q3,Productivity and Business Processes,Dynamics 365,2.137365558204711
+2026-03-01,FY26,FY26-Q3,Intelligent Cloud,Azure,9.321880537781771
+2026-03-01,FY26,FY26-Q3,More Personal Computing,Search and News Advertising,1.2951365084452666
+2026-03-01,FY26,FY26-Q3,More Personal Computing,Devices,0.38716456581891673
+2026-03-01,FY26,FY26-Q3,More Personal Computing,Gaming,1.7922969585973758
+2026-04-01,FY26,FY26-Q4,Productivity and Business Processes,Windows Commercial,0.008227139182022234
+2026-04-01,FY26,FY26-Q4,Intelligent Cloud,Server Products,1.994732497268515
+2026-04-01,FY26,FY26-Q4,Productivity and Business Processes,LinkedIn,0.27514990676439344
+2026-04-01,FY26,FY26-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.715305432335611
+2026-04-01,FY26,FY26-Q4,More Personal Computing,Windows OEM,0.8701634525399662
+2026-04-01,FY26,FY26-Q4,Intelligent Cloud,Enterprise and Partner Services,0.00253362916
+2026-05-01,FY26,FY26-Q4,Productivity and Business Processes,Windows Commercial,0.011260356018678544
+2026-05-01,FY26,FY26-Q4,Intelligent Cloud,Server Products,1.995078818807242
+2026-05-01,FY26,FY26-Q4,Productivity and Business Processes,LinkedIn,0.2938257372103262
+2026-05-01,FY26,FY26-Q4,Productivity and Business Processes,Microsoft 365 Consumer,0.7769644646466062
+2026-05-01,FY26,FY26-Q4,More Personal Computing,Windows OEM,0.9130063046742155
+2026-05-01,FY26,FY26-Q4,Intelligent Cloud,Enterprise and Partner Services,0.0012669721940599718
+2026-06-01,FY26,FY26-Q4,Productivity and Business Processes,Microsoft 365 Commercial,25.374135548461634
+2026-06-01,FY26,FY26-Q4,Productivity and Business Processes,Dynamics 365,2.2902715304366774
+2026-06-01,FY26,FY26-Q4,Intelligent Cloud,Server Products,2.014701158532017
+2026-06-01,FY26,FY26-Q4,Intelligent Cloud,Enterprise and Partner Services,2.05570175202754
+2026-06-01,FY26,FY26-Q4,More Personal Computing,Search and News Advertising,1.2642177706326425
+2026-06-01,FY26,FY26-Q4,More Personal Computing,Devices,0.34958971899376867
+2026-06-01,FY26,FY26-Q4,More Personal Computing,Gaming,1.8377211069578903
+2026-07-01,FY27,FY27-Q1,Productivity and Business Processes,Microsoft 365 Commercial,0.43726631843502295
+2026-07-01,FY27,FY27-Q1,Intelligent Cloud,Azure,10.506787966458596
+2026-07-01,FY27,FY27-Q1,More Personal Computing,Search and News Advertising,1.30625924128774
+2026-07-01,FY27,FY27-Q1,More Personal Computing,Devices,0.29458734384107804
+2026-07-01,FY27,FY27-Q1,More Personal Computing,Gaming,1.7513004611907657
+2026-07-01,FY27,FY27-Q1,Productivity and Business Processes,Dynamics 365,0.012241861536534981
+2026-08-01,FY27,FY27-Q1,Productivity and Business Processes,Microsoft 365 Commercial,0.44318031870929636
+2026-08-01,FY27,FY27-Q1,Intelligent Cloud,Server Products,1.881276046984785
+2026-08-01,FY27,FY27-Q1,More Personal Computing,Search and News Advertising,1.3134643858365875
+2026-08-01,FY27,FY27-Q1,More Personal Computing,Devices,0.3123157771665032
+2026-08-01,FY27,FY27-Q1,More Personal Computing,Gaming,1.8145658691406097
+2026-08-01,FY27,FY27-Q1,Productivity and Business Processes,Dynamics 365,0.01170794911506356
+2026-08-01,FY27,FY27-Q1,Intelligent Cloud,Enterprise and Partner Services,0.0038965505817874307
+2026-09-01,FY27,FY27-Q1,Productivity and Business Processes,Microsoft 365 Commercial,25.857770820903582
+2026-09-01,FY27,FY27-Q1,Productivity and Business Processes,Dynamics 365,2.3071587263168016
+2026-09-01,FY27,FY27-Q1,Intelligent Cloud,Azure,11.515084695061654
+2026-09-01,FY27,FY27-Q1,More Personal Computing,Search and News Advertising,1.4207223448887818
+2026-09-01,FY27,FY27-Q1,More Personal Computing,Devices,0.3054114299888766
+2026-09-01,FY27,FY27-Q1,More Personal Computing,Gaming,1.7844885327174234

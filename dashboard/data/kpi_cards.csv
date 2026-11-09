@@ -1,0 +1,21 @@
+page,card_order,card,value,change,direction
+1. CFO overview,1,Revenue Q1 FY27,$92.0B,+18.9% vs Q1 FY26,up
+1. CFO overview,2,Operating margin,48.2%,+1.7 pts vs Q1 FY26,up
+1. CFO overview,3,Capex incl. leases,$45.2B,+29.5% vs Q1 FY26,neutral
+1. CFO overview,4,Free cash flow,$8.5B,+26.0% vs Q1 FY26,up
+2. Where to invest,1,Revenue FY26,$330.5B,+17.8% vs FY25,up
+2. Where to invest,2,Company operating margin,47.3%,High-margin cut-off,neutral
+2. Where to invest,3,Median product-line growth,8.5%,High-growth cut-off,neutral
+2. Where to invest,4,Invest lines,3 of 12,"M365 Commercial, Dynamics 365, M365 Consumer",up
+3. Return on capex,1,Regions earning their cost,29 of 34,NPV > 0 at 9% and payback within life,up
+3. Return on capex,2,NPV at 9%,+$52.7B,7%: +$88.1B · 11%: +$21.9B,up
+3. Return on capex,3,Median payback,5.7 years,vs about 10-year useful life,neutral
+3. Return on capex,4,Capex shift,+$1.0B a year,$14.2B from 5 weakest to 5 best regions,up
+4. Plan vs actual,1,FY26 revenue vs budget,+0.1%,$330.5B vs $330.1B,up
+4. Plan vs actual,2,FY26 operating income vs budget,−$3.2B,−2.0% vs budget,down
+4. Plan vs actual,3,FY26 R&D vs budget,+6.2%,$34.6B vs $32.6B,down
+4. Plan vs actual,4,Q1 FY27 operating income,+$1.4B,+3.2% vs budget,up
+5. Pipeline and forecast,1,Q2 FY27 revenue forecast,$96.0B,Budget: $95.2B,neutral
+5. Pipeline and forecast,2,80% interval,$92.6–99.4B,95%: $90.8–101.2B,neutral
+5. Pipeline and forecast,3,Back-test error (MAPE),2.5%,Linear model: 8.3%,up
+5. Pipeline and forecast,4,Pipeline coverage,63%,of the Q2 gap to budget,down

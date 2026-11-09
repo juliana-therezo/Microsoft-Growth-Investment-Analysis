@@ -1,0 +1,17 @@
+# Rebuildable data (see README > How to reproduce)
+data/clean/
+data/finance.duckdb
+data/finance.duckdb.wal
+
+# Working files, not part of the project
+Claude outputs/
+README_v1.md
+dashboard/data/Region returns_region_returns.csv
+dashboard/data/Revenue monthly_revenue_monthly.csv
+*.pptx
+
+# Editor and Python leftovers
+notebooks/.vscode/
+.ipynb_checkpoints/
+__pycache__/
+~$*

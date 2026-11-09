@@ -1,0 +1,40 @@
+Country Key,Country Name,Sales Area,Sales Region,Billing Currency,Company Code,Primary Cloud Region
+US,United States,North America,Americas,USD,US10,US East
+CA,Canada,North America,Americas,CAD,CA10,Canada Central
+MX,Mexico,Latin America,Americas,USD,MX10,Mexico Central
+CL,Chile,Latin America,Americas,USD,CL10,US East 2
+CO,Colombia,Latin America,Americas,USD,CO10,US East 2
+AR,Argentina,Latin America,Americas,USD,AR10,US East 2
+GB,United Kingdom,Western Europe,EMEA,GBP,GB10,UK South
+IE,Ireland,Western Europe,EMEA,EUR,IE10,North Europe
+NL,Netherlands,Western Europe,EMEA,EUR,NL10,West Europe
+BE,Belgium,Western Europe,EMEA,EUR,BE10,West Europe
+DE,Germany,Western Europe,EMEA,EUR,DE10,Germany West Central
+FR,France,Western Europe,EMEA,EUR,FR10,France Central
+ES,Spain,Western Europe,EMEA,EUR,ES10,Spain Central
+PT,Portugal,Western Europe,EMEA,EUR,PT10,Spain Central
+IT,Italy,Western Europe,EMEA,EUR,IT10,Italy North
+AT,Austria,Western Europe,EMEA,EUR,AT10,Germany West Central
+CH,Switzerland,Western Europe,EMEA,CHF,CH10,Switzerland North
+SE,Sweden,Northern Europe,EMEA,EUR,SE10,Sweden Central
+NO,Norway,Northern Europe,EMEA,EUR,NO10,Norway East
+DK,Denmark,Northern Europe,EMEA,EUR,DK10,North Europe
+FI,Finland,Northern Europe,EMEA,EUR,FI10,Sweden Central
+PL,Poland,Central and Eastern Europe,EMEA,EUR,PL10,Poland Central
+CZ,Czechia,Central and Eastern Europe,EMEA,EUR,CZ10,Germany West Central
+AE,United Arab Emirates,Middle East and Africa,EMEA,USD,AE10,UAE North
+SA,Saudi Arabia,Middle East and Africa,EMEA,USD,SA10,UAE North
+IL,Israel,Middle East and Africa,EMEA,USD,IL10,West Europe
+ZA,South Africa,Middle East and Africa,EMEA,USD,ZA10,South Africa North
+JP,Japan,Japan,APAC,JPY,JP10,Japan East
+AU,Australia,ANZ,APAC,AUD,AU10,Australia East
+NZ,New Zealand,ANZ,APAC,AUD,NZ10,Australia East
+IN,India,India,APAC,INR,IN10,Central India
+SG,Singapore,Greater Asia,APAC,USD,SG10,Southeast Asia
+HK,Hong Kong SAR,Greater Asia,APAC,USD,HK10,East Asia
+KR,Korea,Greater Asia,APAC,USD,KR10,Korea Central
+TW,Taiwan,Greater Asia,APAC,USD,TW10,East Asia
+MY,Malaysia,Greater Asia,APAC,USD,MY10,Southeast Asia
+ID,Indonesia,Greater Asia,APAC,USD,ID10,Southeast Asia
+TH,Thailand,Greater Asia,APAC,USD,TH10,Southeast Asia
+PH,Philippines,Greater Asia,APAC,USD,PH10,Southeast Asia
